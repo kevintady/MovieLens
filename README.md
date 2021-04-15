@@ -9,9 +9,9 @@
 * Import 3 files from the folder as data frames into Jupyter notebook
 * Display univariate plots of the attributes: 'rating', 'age', 'release date', 'gender', and 'occupation', from their respective data frames
 * Visualize how popularity of Genres has changed over the years
-* Display the top 25 movies by average rating, as a list/series/dataframe. Note: Consider only the moviews which received at least a 100 ratings
+* Display the top 25 movies by average rating, as a list/series/dataframe. Note: Consider only the movies which received at least a 100 ratings
 
-Verify the following statements
+Verify the following statements:
 * Men watch more drama than women
 * Men watch more Romance than women
 * Women watch more Sci-Fi than men
